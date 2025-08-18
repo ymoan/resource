@@ -14,7 +14,7 @@
 
 ****
 
-## 下载：`git clone https://gitcode.com/ymoan/BXX-resource.git`
+## 下载：`git clone https://github.com/ymoan/resource.git`
 
 ****
 ## 公共API：
