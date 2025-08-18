@@ -10,7 +10,7 @@
 ****
 
 ## PS：
-**提交图片需按照顺序提交，如当前角色数量到5.webp，您需要从6.webp上传，您需要自行重置文件名字和格式为.webp！！！推送不建议使用本地强制推送！！请手动上传且不要上传体积过大/模糊难看的图片。本仓库禁止提交性转/违规等内容**
+**提交图片需按照顺序提交，如当前角色数量到5.webp，您需要从6.png上传，您需要自行重置文件名字和格式为.png！！！推送不建议使用本地强制推送！！请手动上传且不要上传体积过大/模糊难看的图片。本仓库禁止提交性转/违规等内容。抠图地址https://www.koukoutu.com/removebgtool/all**
 
 ****
 
@@ -18,7 +18,7 @@
 
 ****
 ## 公共API：
-**PS：免费API不保证稳定性且可能随时更换API地址，建议[自行搭建API](https://gitcode.com/ymoan/BXX-resource/blob/main/index.php)  【NG/PHP搭建的API】**
+**PS：免费API不保证稳定性且可能随时更换API地址，建议[自行搭建API](https://github.com/ymoan/resource/blob/main/index.php)  【NG/PHP搭建的API】**
 
 ## 地址：
 **随机加载：`http://120.48.136.201:520/`**
