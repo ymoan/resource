@@ -18,7 +18,7 @@ if (isset($_GET['ver'])) {
     $randomDir = $dirs[array_rand($dirs)];
     $selectedDir = $randomDir;
 }
-$images = glob($selectedDir . '/*.webp'); #可自行修改适配格式
+$images = glob($selectedDir . '/*.png'); #可自行修改适配格式
 if (empty($images)) {
     http_response_code(404);
     exit;
